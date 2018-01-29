@@ -1,0 +1,20 @@
+{
+  "name": "gatsby-remark-encrypted-block",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aynik/gatsby-remark-encrypted-blocks.git"
+  },
+  "description": "Gatsby remark plugin for adding an encrypted block in markdown",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "markdown",
+    "remark"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "version": "0.0.2",
+  "dependencies": {
+    "remark-encrypted-block": "0.0.1"
+  }
+}
